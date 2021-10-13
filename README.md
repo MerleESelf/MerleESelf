@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MerleESelf
 - 👀 I’m interested plants, pets, handi crafts, and learning new things 
-- 🌱 I’m currently learning JavaScript basics 
+- 🌱 I’m currently learning JavaScript, html, and CSS basics. 
 - 📫 How to reach me: merleself@gmail.com 
 
 <!---

@@ -2,7 +2,6 @@
 - FSA: Grace Hopper program Grad 2201. 
 - 👀 I’m interested plants, pets, handi crafts, and learning new things. 
 - 🌱 I’m currently looking for a full time job as a Full Stack Software Engineer.  
-- 📫 How to reach me: merleself@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/merle-self/
 
 <!---

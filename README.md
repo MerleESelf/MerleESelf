@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MerleESelf
+- Production Software Engineer. 
 - FSA: Grace Hopper program Grad 2201. 
 - 👀 I’m interested plants, pets, handi crafts, and learning new things. 
-- 🌱 I’m currently looking for a full time job as a Full Stack Software Engineer.  
 - LinkedIn: https://www.linkedin.com/in/merle-self/
 
 <!---
